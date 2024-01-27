@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on real estate data 🏬
 - 🌱 I’m currently learning statistics and R 📊
 - 👯 I’m looking to collaborate on ecology projects 🐾
+- 🔵⚪🔴
+- 🇺🇾
   
 <!--
 **gabrielvuy/gabrielvuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
